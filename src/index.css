@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Italiana&display=swap');
+
+/* Reset CSS padrao do React 
+@import-normalize; 
+*/
+body {
+  background-color: #F6F6F6;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Italiana', serif;
+}
